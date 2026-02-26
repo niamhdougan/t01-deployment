@@ -3,7 +3,7 @@ _commit: 5.2.0
 _src_path: https://github.com/epics-containers/deployment-template-argocd
 argocd_cluster: argus
 argocd_server: argocd.diamond.ac.uk
-cluster_name: t01
+cluster_name: argus
 cluster_namespace: sfx44126
 deployment_repo: https://github.com/niamhdougan/t01-deployment
 description: t01 IOC Instances and Services Deployment Repository for Argo CD

@@ -10,7 +10,7 @@
 
 project: sfx44126
 destination:
-  name: t01
+  name: argus
   namespace: sfx44126
 source:
   repoURL: https://github.com/niamhdougan/t01-services
